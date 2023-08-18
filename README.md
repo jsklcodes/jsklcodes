@@ -1,16 +1,18 @@
-### Hi there 👋
+&nbsp;
 
-<!--
-**jsklcodes/jsklcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
 
-Here are some ideas to get you started:
+<div align="center">
+  
+<img width="200" src="https://octodex.github.com/images/welcometocat.png">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello, I'm Kallyne!
+A code learner from Brazil
+
+I started learning programming at university. I'm passionate about **JavaScript** and **front-end** technologies, especially **CSS**, **accessibility** and **usability**. 
+
+</div>
+
+&nbsp;
+
+&nbsp;
