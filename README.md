@@ -1,16 +1,23 @@
-## Hi there 👋
+```bash
+iam@jsklcodes:~$ about --me
+Desenvolvedora web em formação, focada no ecossistema JavaScript e tecnologias relacionadas.
+Atualmente buscando aprender e melhorar minhas habilidades.
 
-<!--
-**jsklcodes/jsklcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iam@jsklcodes:~$ skills --list
+- Boa noção, aprendendo mais a fundo
+  - Git
+  - JavaScript (ES6+)
+  - HTML5 & CSS3
+- Conhecimento fundamental, aprendizado em progresso
+  - React
+  - Node.js
+  - MongoDB
 
-Here are some ideas to get you started:
+iam@jsklcodes:~$ fun --fact
+- Não tenho redes sociais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+iam@jsklcodes:~$ projects --highlight
+Em breve
+
+iam@jsklcodes:~$
+```
