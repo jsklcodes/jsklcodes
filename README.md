@@ -1,23 +1,15 @@
-```bash
-iam@jsklcodes:~$ about --me
-Desenvolvedora web em formação, focada no ecossistema JavaScript e tecnologias relacionadas.
-Atualmente buscando aprender e melhorar minhas habilidades.
+<img align="left" src="https://api.removal.ai/download/g1/preview/525bb568-3014-4717-be8f-ed9f45e09d32.png" >
 
-iam@jsklcodes:~$ skills --list
-- Boa noção, aprendendo mais a fundo
-  - Git
-  - JavaScript (ES6+)
-  - HTML5 & CSS3
-- Conhecimento fundamental, aprendizado em progresso
-  - React
-  - Node.js
-  - MongoDB
+<br><br><br><br>
 
-iam@jsklcodes:~$ fun --fact
-- Não tenho redes sociais
+<p align="right">
+  
+Oi! Sou a Kallyne, estudante de desenvolvimento web, apaixonada por criatividade e movida pela curiosidade. Adoro transformar ideias em projetos reais e funcionais através do código.
 
-iam@jsklcodes:~$ projects --highlight
-Em breve
+Tenho trabalhado em projetos de aprendizado e pessoais para explorar as possibilidades de criar experiências digitais úteis e interessantes. Meu objetivo é crescer continuamente, enfrentar novos desafios e melhorar minhas habilidades a cada passo.
 
-iam@jsklcodes:~$
-```
+Também sou muito apaixonada por videogames e por conhecer novas culturas e perspectivas — estou sempre aberta a aprender algo novo.
+
+Fique à vontade para explorar meus projetos e ver meu código com seus próprios olhos. Vamos construir algo incrível!
+
+</p>
