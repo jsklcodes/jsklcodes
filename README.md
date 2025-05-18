@@ -1,10 +1,8 @@
-<img align="left" src="https://api.removal.ai/download/g1/preview/525bb568-3014-4717-be8f-ed9f45e09d32.png" >
+<img width="100" src="./jsklcodes-avatar.png" >
 
-<br><br><br><br>
-
-<p align="right">
+<p>
   
-Oi! Sou a Kallyne, estudante de desenvolvimento web, apaixonada por criatividade e movida pela curiosidade. Adoro transformar ideias em projetos reais e funcionais através do código.
+<h3>Oi! Sou a Kallyne, estudante de desenvolvimento web, apaixonada por criatividade e movida pela curiosidade. Adoro transformar ideias em projetos reais e funcionais através do código.</h3>
 
 Tenho trabalhado em projetos de aprendizado e pessoais para explorar as possibilidades de criar experiências digitais úteis e interessantes. Meu objetivo é crescer continuamente, enfrentar novos desafios e melhorar minhas habilidades a cada passo.
 
